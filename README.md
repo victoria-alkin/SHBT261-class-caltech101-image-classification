@@ -1,4 +1,4 @@
-# Caltech-101 Image Classification Benchmark
+# SHBT Mini Project 1: Caltech-101 Image Classification
 
 This project evaluates classical machine learning and deep learning approaches for image classification on the Caltech-101 dataset. The goal is to compare performance between these models, and to analyze the effects of ablations such as changes in image size and data augmentation.
 
